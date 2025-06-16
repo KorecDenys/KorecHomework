@@ -1,0 +1,28 @@
+h1 {
+	font-size: 400%;
+	color: red;
+	padding-top: 50px;
+}
+.good{
+	color: green;
+	font-size: 200%;
+}
+.mid{
+	color: yellow;
+	font-size: 200%;
+}
+#description{
+	font-size: 130%;
+	color: white;
+	padding-top: 70px;
+}
+#table{
+	padding-top: 50px;
+	color: white;
+	font-size: 120%;
+}
+.table{
+	font-size: 120%;
+	color: #951818;
+}
+/*p{padding-left: 100px}*/
